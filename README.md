@@ -1,6 +1,6 @@
 ## Olá, me chamo Felipe e sou um Desenvolvedor fullstack Júnior 👋
 
- estudante de #Sistema de **Informaçao na Uninter** fascinado em Desenvolver sistemas,  resolver problemas e implementar novas idéias
+ estudante de **Sistema de Informaçao** na Uninter fascinado em Desenvolver sistemas, resolver problemas e implementar novas idéias
 
 ## Sobre mim:
 - Cursando 2º ano de **Sistema de Informação**
@@ -15,7 +15,7 @@
 - **[Sistema de Manutenção](link-do-repositorio):** CRUD completo em PHP para registro de máquinas industriais.
 - **[To-Do List com Login](link-do-repositorio):** Aplicação Flask com sistema de autenticação e persistência de dados.
 - ### 📈 Estatísticas do GitHub
-### 🚀 Minha Stack
+### Minha Stack
 <div id="header" align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-### 📫 Como me encontrar
-- [LinkedIn](LINK-DO-SEU-LINKEDIN)
-- [Email](SEU-EMAIL-PROFISSIONAL)
+###  Como me encontrar
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-oliveira-4a61062a4/
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) oliveiralipegon99@gmail.com
 
 
 
