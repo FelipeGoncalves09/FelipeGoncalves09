@@ -22,9 +22,10 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" />
- Como me contatar:
-</div>
+ 
 
+</div>
+ Como me contatar:
 <a href="**[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-oliveira-4a61062a4/)**" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
