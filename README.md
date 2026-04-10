@@ -23,10 +23,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-###  Como me encontrar
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-oliveira-4a61062a4/
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) oliveiralipegon99@gmail.com
+###  Como me contatar:
+<a href="**[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/felipe-gon%C3%A7alves-de-oliveira-4a61062a4/)**" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
+<a href="mailto:**oliveiralipegon99@gmail.com**" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 
 
