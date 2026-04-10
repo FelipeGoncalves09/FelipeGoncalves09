@@ -15,9 +15,14 @@
 - **[Sistema de Manutenção](link-do-repositorio):** CRUD completo em PHP para registro de máquinas industriais.
 - **[To-Do List com Login](link-do-repositorio):** Aplicação Flask com sistema de autenticação e persistência de dados.
 - ### 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeGoncalves09&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGoncalves09&layout=compact&theme=tokyonight)
-
+### 🚀 Minha Stack
+<div id="header" align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 ### 📫 Como me encontrar
 - [LinkedIn](LINK-DO-SEU-LINKEDIN)
 - [Email](SEU-EMAIL-PROFISSIONAL)
