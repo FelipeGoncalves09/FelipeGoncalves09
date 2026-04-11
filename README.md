@@ -12,8 +12,8 @@
 - **Banco de Dados:** MySQL, SQLite.
 - **Outros:** Git, GitHub, Modelagem de dados (CRUD)
 ## Meus Projetos de Destaque
-- **[Sistema de Manutenção](link-do-repositorio):** CRUD completo em PHP para registro de máquinas industriais.
-- **[To-Do List com Login](link-do-repositorio):** Aplicação Flask com sistema de autenticação e persistência de dados.
+- **[Sistema de Manutenção]((https://github.com/FelipeGoncalves09/Sistema-de-Manuten-ao)):** CRUD completo em PHP para registro de máquinas industriais.
+- **[To-Do List com Login]((https://github.com/FelipeGoncalves09/To-do-list-Flask-SqlAlchemy)):** Aplicação Flask com sistema de autenticação e persistência de dados.
 - ### 📈 Estatísticas do GitHub
 ### Minha Stack
 <div id="header" align="left">
